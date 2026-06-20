@@ -8,7 +8,7 @@ a{color:inherit;text-underline-offset:.28em}
 nav{display:flex;flex-wrap:wrap;gap:1.45rem;font-family:system-ui,sans-serif;text-transform:uppercase;letter-spacing:.15em;font-size:.7rem}
 nav a{text-decoration:none}
 nav a:hover{color:var(--moss)}
-.hero{min-height:42vh;background:linear-gradient(90deg,rgba(3,6,4,.60),rgba(3,6,4,.08) 48%,rgba(3,6,4,.48)),linear-gradient(0deg,rgba(3,6,4,.86),rgba(3,6,4,0) 48%),url('hero-place-scan-render.jpg') center/cover no-repeat;display:grid;align-items:end;padding:6.2rem clamp(1rem,5vw,5rem) 2.3rem}
+.hero{min-height:42vh;background:linear-gradient(90deg,rgba(3,6,4,.60),rgba(3,6,4,.08) 48%,rgba(3,6,4,.48)),linear-gradient(0deg,rgba(3,6,4,.86),rgba(3,6,4,0) 48%),url('hero-place-scan-render.png') center/cover no-repeat;display:grid;align-items:end;padding:6.2rem clamp(1rem,5vw,5rem) 2.3rem}
 .quote{max-width:500px}
 .quote p{margin:0 0 .8rem;font-size:clamp(1.45rem,2.5vw,2.55rem);line-height:1.13;letter-spacing:-.02em}
 .quote small{display:block;color:var(--muted);font-family:system-ui,sans-serif;font-size:.72rem;letter-spacing:.02em;margin-top:.35rem}
